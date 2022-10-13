@@ -8,7 +8,7 @@
 
 ## Project Templete screenshot
 
-![Webpage template](.\01_Accordions\screenshot.png)
+![Webpage template](https://github.com/raghavendra-tejas/JavaScript-Projects/blob/main/01_Accordions/screenshot.png)
 
 ## Hosted webpage link
 
