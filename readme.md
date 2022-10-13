@@ -8,7 +8,7 @@
 
 ## Project Templete screenshot
 
-![Webpage template](01_Accordions\accordion-js-project.netlify.app_.png)
+![Webpage template](.\01_Accordions\screenshot.png)
 
 ## Hosted webpage link
 
