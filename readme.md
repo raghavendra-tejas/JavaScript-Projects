@@ -4,7 +4,7 @@ Accordion, allow the user to toggle between hiding and showing blocks of content
 
 ### Project Templete screenshot
 
-![Webpage template](.\01_Accordions\screenshot.png)
+![Webpage template](https://github.com/raghavendra-tejas/JavaScript-Projects/blob/main/01_Accordions/screenshot.png)
 
 ### Hosted webpage link
 
