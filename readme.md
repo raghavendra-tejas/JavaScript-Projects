@@ -1,18 +1,26 @@
 # Project-01 Accordions
 
-## Accordion, allow the user to toggle between hiding and showing blocks of content with a single click, thus greatly enhancing the user experience (ux) of the project.
+Accordion, allow the user to toggle between hiding and showing blocks of content with a single click, thus greatly enhancing the user experience (ux) of the project.
 
-- This project was constructed by using only HTML and CSS as a markup and styling language respectively and includes little of JavaScript.
-- This accordion project is currently hosted on netlify.
-- This is an all screen responsive.
-
-## Project Templete screenshot
+### Project Templete screenshot
 
 ![Webpage template](.\01_Accordions\screenshot.png)
 
-## Hosted webpage link
+### Hosted webpage link
 
 [Accordion hosted link](https://accordion-js-project.netlify.app/)
+
+# Project-02 Color_Changer
+
+On clicking the button the canvas changes its color to various random colors.
+
+### Project Templete screenshot
+
+![Webpage template](02_ColorChanger\Image\screenshot.png)
+
+### Hosted webpage link
+
+[Color changer hosted link]()
 
 # Connect with me:
 
