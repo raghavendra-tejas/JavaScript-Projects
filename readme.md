@@ -16,11 +16,11 @@ On clicking the button the canvas changes its color to various random colors.
 
 ### Project Templete screenshot
 
-![Webpage template](02_ColorChanger\Image\screenshot.png)
+![Webpage template](https://github.com/raghavendra-tejas/JavaScript-Projects/blob/main/02_ColorChanger/Image/screenshot.png)
 
 ### Hosted webpage link
 
-[Color changer hosted link]()
+[Color-changer hosted link](https://color-changer-js-project.netlify.app/)
 
 # Connect with me:
 
