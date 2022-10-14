@@ -22,6 +22,16 @@ On clicking the button the canvas changes its color to various random colors.
 
 [Color-changer hosted link](https://color-changer-js-project.netlify.app/)
 
+# Project-03 Password Generator
+
+### Project Templete screenshot
+
+![Webpage template](https://github.com/raghavendra-tejas/JavaScript-Projects/blob/main/03_PasswordGenerator/Image/Project.png)
+
+### Hosted webpage link
+
+[Password-generator hosted link](https://password-generator-js-project.netlify.app/)
+
 # Connect with me:
 
 ### _*Raghavendra Tejas*_
