@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chilanka&display=swap');
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+header{
+    background-color: #59ef0e;
+    height: 5rem;
+    padding-top: 1rem;
+    font-family: 'Chilanka', cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header h1{
+    text-align: center;
+    font-size: 2rem;
+    color: #000000;
+    font-style: italic;
+    font-weight: 600;
+}
+
+header h1 span {
+    color: rgb(98, 83, 83);
+    font-size: 1rem;
+}
+
+body{
+    background-color: #175f39;
+    font-family: 'Baloo Tamma 2', cursive;
+    color: rgb(195, 190, 190);
+}
+
+.score-board{
+    color: #fee11a;
+    text-align: center;
+    font-size: 2.5em;
+    padding: 2vmin;
+}
+
+.score-board .userscore, .score-board .compscore, .score-board span{
+    display: inline-block;
+    padding: 0 1vmin;
+}
+
+
+/* .score-board .userscore{
+    position: absolute;
+    top: 35px;
+    left: -40px;
+}
+
+
+.score-board .compscore{
+    position: absolute;
+    top: 35px;
+    right: -40px;
+} */
+
+.score-board span {
+    font-size: 2em;
+    color: #ffffff;
+}
+
+
+.result {
+    text-align: center;
+    margin: 1vmin auto 3vmin auto;
+    font-size: 2em;
+}
+
+#result-final-stat {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #f5e5e8;
+}
+
+.choices {
+    margin: 5vmin auto;
+    text-align: center;
+    font-size: 2em;
+    cursor: pointer;
+}
+
+.choice {
+    padding: 3vmin 3vmin;
+    margin: 0 2vmin;
+    display: inline-block;
+    border-radius: 50%;
+    transition: all .2s ease-in;
+    cursor: pointer;
+}
+
+.choice:hover {
+    background-color: #59ef0e;
+    /* border: 2px solid #47030f; */
+}
+
+.name{
+    color: #e7e3ff;
+}
