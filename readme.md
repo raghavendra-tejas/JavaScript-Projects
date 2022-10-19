@@ -42,7 +42,7 @@ Allows the user to increment and decrement the number.
 
 ### Hosted webpage link
 
-[Accordion hosted link](https://basic-counter-js-project.netlify.app/)
+[Basic Counter hosted link](https://basic-counter-js-project.netlify.app/)
 
 # Connect with me:
 
