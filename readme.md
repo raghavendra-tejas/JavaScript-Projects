@@ -32,6 +32,18 @@ On clicking the button the canvas changes its color to various random colors.
 
 [Password-generator hosted link](https://password-generator-js-project.netlify.app/)
 
+# Project-04 Basic Counter
+
+Allows the user to increment and decrement the number.
+
+### Project Templete screenshot
+
+![Webpage template](https://github.com/raghavendra-tejas/JavaScript-Projects/blob/main/05_BasicCounter/Image/Basic_Counter.png)
+
+### Hosted webpage link
+
+[Accordion hosted link](https://basic-counter-js-project.netlify.app/)
+
 # Connect with me:
 
 ### _*Raghavendra Tejas*_
