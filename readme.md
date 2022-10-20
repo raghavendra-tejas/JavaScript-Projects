@@ -44,6 +44,18 @@ Allows the user to increment and decrement the number.
 
 [Basic Counter hosted link](https://basic-counter-js-project.netlify.app/)
 
+# Project-05 Click the Button
+
+On clicking the button below statement indicates how many times we clicked that button
+
+### Project Templete screenshot
+
+![Webpage template](https://github.com/raghavendra-tejas/JavaScript-Projects/blob/main/06_ClickTheButton/Image/Clicked_Me.png)
+
+### Hosted webpage link
+
+[Click-the-Button hosted link](https://click-the-button-js-project.netlify.app/)
+
 # Connect with me:
 
 ### _*Raghavendra Tejas*_
