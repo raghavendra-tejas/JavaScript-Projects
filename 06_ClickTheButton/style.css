@@ -23,6 +23,7 @@ button {
   border-color: transparent;
   font-size: large;
   box-shadow: 0;
+  cursor: pointer;
 }
 
 button:active {
