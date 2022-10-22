@@ -56,6 +56,18 @@ On clicking the button below statement indicates how many times we clicked that 
 
 [Click-the-Button hosted link](https://click-the-button-js-project.netlify.app/)
 
+# Project-06 See What You Type
+
+When the user types something on the text area, the same will be displayed to the user outside the text area.
+
+### Project Templete screenshot
+
+![Webpage template](https://github.com/raghavendra-tejas/JavaScript-Projects/blob/main/07_SeeWhatYouType/Image/See_What_You_Type.png)
+
+### Hosted webpage link
+
+[See-What-You-Type hosted link](https://see-what-you-type-js-project.netlify.app/)
+
 # Connect with me:
 
 ### _*Raghavendra Tejas*_
