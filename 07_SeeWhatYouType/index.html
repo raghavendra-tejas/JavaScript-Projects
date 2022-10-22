@@ -16,6 +16,13 @@
     </div>
   </body>
   <script>
-    //code here
+    // Caching the DOM
+    const textArea = document.getElementById("input");
+    const displayArea = document.getElementById("output");
+
+    // Code
+    function update() {
+      displayArea.innerHTML = textArea.value;
+    }
   </script>
 </html>
